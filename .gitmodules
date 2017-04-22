@@ -1,0 +1,6 @@
+[submodule "codechef"]
+	path = codechef
+	url = git@github.com:raghavrv/codechef.git
+[submodule "Data-Structures-By-Horowitz-in-Python"]
+	path = Data-Structures-By-Horowitz-in-Python
+	url = git@github.com:raghavrv/Data-Structures-By-Horowitz-in-Python.git
